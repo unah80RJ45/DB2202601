@@ -1,0 +1,11 @@
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\Prueba\obj\Debug\Prueba.exe.config
