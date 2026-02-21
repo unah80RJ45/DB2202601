@@ -1,0 +1,12 @@
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\bin\Debug\vbTest.exe.config
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\bin\Debug\vbTest.exe
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\bin\Debug\vbTest.pdb
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\bin\Debug\vbTest.xml
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\obj\Debug\vbTest.vbproj.AssemblyReference.cache
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\obj\Debug\vbTest.Form1.resources
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\obj\Debug\vbTest.Resources.resources
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\obj\Debug\vbTest.vbproj.GenerateResource.cache
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\obj\Debug\vbTest.vbproj.CoreCompileInputs.cache
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\obj\Debug\vbTest.exe
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\obj\Debug\vbTest.xml
+C:\Dev\UNAH\DB2\2026-01\VisualStudio\Prueba\vbTest\obj\Debug\vbTest.pdb

@@ -29,73 +29,63 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.button1 = new System.Windows.Forms.Button();
-            this.txtCodigo = new System.Windows.Forms.TextBox();
-            this.chkCiudad = new System.Windows.Forms.CheckBox();
+            this.cmdSalvar = new System.Windows.Forms.Button();
+            this.cmdCancelar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(26, 27);
+            this.dataGridView1.Location = new System.Drawing.Point(20, 22);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(748, 350);
+            this.dataGridView1.Size = new System.Drawing.Size(717, 292);
             this.dataGridView1.TabIndex = 0;
             // 
-            // button1
+            // cmdSalvar
             // 
-            this.button1.Location = new System.Drawing.Point(26, 394);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(179, 44);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.cmdSalvar.Location = new System.Drawing.Point(20, 321);
+            this.cmdSalvar.Name = "cmdSalvar";
+            this.cmdSalvar.Size = new System.Drawing.Size(158, 48);
+            this.cmdSalvar.TabIndex = 1;
+            this.cmdSalvar.Text = "Salvar";
+            this.cmdSalvar.UseVisualStyleBackColor = true;
+            this.cmdSalvar.Click += new System.EventHandler(this.cmdSalvar_Click);
             // 
-            // txtCodigo
+            // cmdCancelar
             // 
-            this.txtCodigo.Location = new System.Drawing.Point(232, 405);
-            this.txtCodigo.Name = "txtCodigo";
-            this.txtCodigo.Size = new System.Drawing.Size(100, 22);
-            this.txtCodigo.TabIndex = 2;
-            // 
-            // chkCiudad
-            // 
-            this.chkCiudad.AutoSize = true;
-            this.chkCiudad.Location = new System.Drawing.Point(353, 405);
-            this.chkCiudad.Name = "chkCiudad";
-            this.chkCiudad.Size = new System.Drawing.Size(72, 20);
-            this.chkCiudad.TabIndex = 3;
-            this.chkCiudad.Text = "Ciudad";
-            this.chkCiudad.UseVisualStyleBackColor = true;
+            this.cmdCancelar.Location = new System.Drawing.Point(579, 321);
+            this.cmdCancelar.Name = "cmdCancelar";
+            this.cmdCancelar.Size = new System.Drawing.Size(158, 48);
+            this.cmdCancelar.TabIndex = 2;
+            this.cmdCancelar.Text = "Cancelar";
+            this.cmdCancelar.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.chkCiudad);
-            this.Controls.Add(this.txtCodigo);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(755, 379);
+            this.Controls.Add(this.cmdCancelar);
+            this.Controls.Add(this.cmdSalvar);
             this.Controls.Add(this.dataGridView1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox txtCodigo;
-        private System.Windows.Forms.CheckBox chkCiudad;
+        private System.Windows.Forms.Button cmdSalvar;
+        private System.Windows.Forms.Button cmdCancelar;
     }
 }
 
